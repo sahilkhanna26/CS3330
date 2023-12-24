@@ -1,0 +1,2 @@
+These are all the homework assignments for CS 3330: Computer Architecture taught in the Fall 2022 semester by Prof. Charles Reiss. This class covered the x86 instruction set, processor design, pipelining, concurrency, virtual memory, and more topics . This class is no longer taught which is why I am uploading my code. If you are a Prof. Reiss/anotherUVa professor who would like this code removed, please email me at sk5xvh@virginia.edu and I will make this repository private.
+
